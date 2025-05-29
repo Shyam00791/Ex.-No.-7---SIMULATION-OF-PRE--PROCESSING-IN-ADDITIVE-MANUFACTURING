@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/c3c9d443-efe7-4b20-b25b-920e04203322)
+
+### Name: SHYAM V
+
+### Register Number: 212224220102
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
